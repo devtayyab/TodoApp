@@ -1,0 +1,17 @@
+.box{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   justify-content: center;
+   align-items: center;
+    
+    background-color: white;
+    width: 400px;
+    box-shadow: 5px 5px 5px grey;
+  }
+  .App{
+   
+  
+    background-color: blue;
+  }
